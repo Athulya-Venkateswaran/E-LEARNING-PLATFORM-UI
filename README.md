@@ -54,6 +54,7 @@ OUTPUT(4):<img width="1331" height="601" alt="Image" src="https://github.com/use
 
 OUTPUT(5):<img width="1328" height="602" alt="Image" src="https://github.com/user-attachments/assets/44b81d94-d973-40b2-b503-ede3863337dc" />
 
-OUTPUT(6):
+OUTPUT(6):<img width="1328" height="598" alt="Image" src="https://github.com/user-attachments/assets/10ce0649-dab6-4277-94b1-72cd47229f0a" />
+
 
 
