@@ -46,7 +46,7 @@ This internship task showcases how front-end web technologies can be used to bui
 
 OUTPUT(1):<img width="1349" height="629" alt="Image" src="https://github.com/user-attachments/assets/141aae99-46bc-48dd-8347-0b3a43110861" />
 
-OUTPUT(2):
+OUTPUT(2):<img width="1353" height="627" alt="Image" src="https://github.com/user-attachments/assets/197ed154-f4b1-4542-a78b-baba438b18b1" />
 
 OUTPUT(3):
 
