@@ -44,7 +44,7 @@ Through this project, I enhanced my understanding of.User authentication logic u
 
 This internship task showcases how front-end web technologies can be used to build simple but functional educational web apps. By combining HTML for structure, CSS for design, and JavaScript for interactivity, I created a cohesive and interactive user experience. Visual Studio Code, being a lightweight yet powerful editor, made the development process smooth. This project not only reflects my technical skills but also highlights my ability to understand and implement real-world applications from scratch.
 
-OUTPUT(1):
+OUTPUT(1):<img width="1349" height="629" alt="Image" src="https://github.com/user-attachments/assets/141aae99-46bc-48dd-8347-0b3a43110861" />
 
 OUTPUT(2):
 
