@@ -48,7 +48,7 @@ OUTPUT(1):<img width="1349" height="629" alt="Image" src="https://github.com/use
 
 OUTPUT(2):<img width="1353" height="627" alt="Image" src="https://github.com/user-attachments/assets/197ed154-f4b1-4542-a78b-baba438b18b1" />
 
-OUTPUT(3):
+OUTPUT(3):<img width="1349" height="627" alt="Image" src="https://github.com/user-attachments/assets/536d4951-55e3-4876-bede-625ae6a005a2" />
 
 OUTPUT(4):
 
